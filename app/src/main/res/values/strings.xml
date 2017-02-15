@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InClassFive</string>
+    <string name="main_activity_title">CNN News</string>
+    <string name="get_news_btn">Get News</string>
+    <string name="finish_btn">Finish</string>
+    <string name="article_description">Description</string>
+</resources>
